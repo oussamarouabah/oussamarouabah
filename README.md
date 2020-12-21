@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Elixir.
+- 👯 I’m looking to collaborate on any react js related projects.
+If you'd like to sponsor me I'd be super grateful - please see my 
 
 <!--
 **oussamarouabah/oussamarouabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
