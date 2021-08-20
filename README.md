@@ -1,6 +1,11 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Elixir.
-- 👯 I’m looking to collaborate on any react js related projects.
+- 🔭 I’m currently working on GraphQl API for E-commerce website.
+- 🌱 I’m currently learning Elastic stack and Hasura
+- 👯 I’m looking to collaborate on any typescript related projects.
+- 🤔 I’m looking for help with getting a job 
+- 💬 Ask me about typescript or golang
+- 📫 How to reach me: @email: rouabaho@gmail.com, @twitter: twitter.com/oussamarouabah_ 
+- ⚡ Fun fact: I love programming specially (Golang, TypeScript)
 
 
 <!--
