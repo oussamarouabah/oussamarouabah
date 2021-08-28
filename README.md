@@ -4,7 +4,9 @@
 - 👯 I’m looking to collaborate on any typescript related projects.
 - 🤔 I’m looking for help with getting a job 
 - 💬 Ask me about typescript or golang
-- 📫 How to reach me: @email: rouabaho@gmail.com, @twitter: twitter.com/oussamarouabah_ 
+- 📫 How to reach me:
+[![Twitter Badge](https://img.shields.io/badge/ermolnik-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/oussamarouabah_) 
+@email: rouabaho@gmail.com, 
 - ⚡ Fun fact: I love programming specially (Golang, TypeScript)
 
 
