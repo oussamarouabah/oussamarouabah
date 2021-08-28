@@ -9,15 +9,16 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=oussamarouabah&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouabahoussama&layout=compact&theme=dark" />
+<!--   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouabahoussama&layout=compact&theme=dark" /> -->
 </p>
 
 - 📫 How to reach me:
 
-[![Twitter Badge](https://img.shields.io/badge/rouabaho_oussama%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/oussamarouabah_) 
+[![Twitter Badge](https://img.shields.io/badge/rouabah_oussama%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/oussamarouabah_) 
+
+[![Gmail Badge](https://img.shields.io/badge/rouabah_oussama%20on%20gmail-red?style=for-the-badge&logo=gmail)]() <b>rouabaho@gmail.com</b>
 
 
-@email: rouabaho@gmail.com, 
 - ⚡ Fun fact: I love programming specially (Golang, TypeScript)
 
 
