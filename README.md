@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with getting a job 
 - 💬 Ask me about typescript or golang
 - 📫 How to reach me:
-[![Twitter Badge](https://img.shields.io/badge/ermolnik-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/oussamarouabah_) 
+[![Twitter Badge](https://img.shields.io/badge/rouabaho_oussama%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/oussamarouabah_) 
 @email: rouabaho@gmail.com, 
 - ⚡ Fun fact: I love programming specially (Golang, TypeScript)
 
