@@ -20,7 +20,7 @@ I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>
 I am an <b>ambitious man</b> with rich experience.<br>
 Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
 As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer <b>satisfaction</b>.<br>
-I can contribute to your project as an individual <b>backend developer</b>. And if you want to work with our agency, I can lead teammates.<br>
+I can contribute to your project as an individual <b>backend developer</b>.
 Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
 </p>
 
