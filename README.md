@@ -6,7 +6,7 @@
   Web Developper | Backend Engineer
 </h4>
 
-## 🧑 About me:
+## About me:
 
 <p>
 I am working as a <b>Web Developper</b> for 3 years and have developed many projects according to clients' needs.<br>
