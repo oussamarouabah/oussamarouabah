@@ -10,7 +10,7 @@
 </h1>
 
 <h4 align='center'>
-  Web Developper | Backend Engineer
+  System Engineer | Backend Engineer
 </h4>
 
 ## About me:
