@@ -21,14 +21,16 @@ I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>
 I am an <b>ambitious man</b> with rich experience.<br>
 Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
 As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer <b>satisfaction</b>.<br>
-I can contribute to your project as an individual <b>System Engineer</b> or <b>Software Engineer</b>  .
+I can contribute to your project as an individual <b>System Engineer</b> or <b>Software Engineer</b>.
 Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸  gRPC, GraphQL, RESTApis
-<br>🔸 BackEnd - Node, Express, Golang, Typescript
-<br>🔸 GCP and Firebase
+<p>🔸  gRPC, REST APIs
+<br>🔸 BackEnd - Golang expert
+<br>🔸 GCP, Azure, AWS
+<br>🔸 Postgres, Redis, MongoDB, Prometheus, Grafana, ArgoCD
+<br>🔸 Kubernetes, Docker, Linux
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
