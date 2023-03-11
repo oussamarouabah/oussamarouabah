@@ -16,22 +16,64 @@
 ## About me:
 
 <p>
-I am working as a <b>Software Engineer</b> for 5 years and have developed many projects according to clients' needs.<br>
-I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
-I am an <b>ambitious man</b> with rich experience.<br>
-Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
-As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer <b>satisfaction</b>.<br>
-I can contribute to your project as an individual <b>System Engineer</b> or <b>Software Engineer</b>.
-Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
-</p>
+Hey There!
 
-<h2>🥇 Specialised in:</h2>
-<p>🔸  gRPC, REST APIs
-<br>🔸 BackEnd - Golang expert
-<br>🔸 GCP, Azure, AWS
-<br>🔸 Postgres, Redis, MongoDB, Prometheus, Grafana, ArgoCD
-<br>🔸 Kubernetes, Docker, Linux
-<p>
+Thanks for stopping by my profile, I know you are curious to know who am I and how can I help you with your issues!
+
+Well, let me introduce myself first,
+My name is Oussama, I am from Algeria I have been working as a Software Engineer for 5 years now, I worked in E-commerce, and Platform Engineering, and now I am working in the Blockchain industry, fantastic isn't it?
+
+You can consider me a nerd, I like to learn new things every day, now let me tell you about my tech stack:
+
+Programming Languages:
+
+- Golang
+- Python
+- Typescript / Javascript.
+
+Databases:
+
+- PostgreSQL
+- MongoDB
+- DynamoDB
+- Redis
+- Elasticsearch
+- RabbitMQ ( not a database but just fit in the storage things )
+- Kafka
+
+Tools:
+
+- Kubernetes
+- Docker
+- Hashicorp ( Terraform, Consul, Vault )
+- Prometheus
+- Grafana
+
+Cloud Platforms:
+
+- AWS
+- GCP
+- DigitalOcean
+
+
+My experience:
+
+- I worked as a System Engineer with Namla Edge Cloud, I was responsible for building Kubernetes operators using Go, and also responsible for architecting and maintaining our monitoring services ( Prometheus, Grafana, ... ), with several Go services here and there.
+
+- I worked with MTC to build a new MarketPlace platform in Algeria, I was responsible for deployment using Terraform and GCP, and also the search section ( services related ).
+
+- I am working now as Backend Engineer with MatchX, we are a web3 company, and I am for the moment responsible for several Go backend services, and the migration to Kubernetes.
+
+
+Finally,
+Please feel free to send me a message, let's chat and see how can I help you.
+
+I am excited to work with you!
+
+Thanks for your time, you definitely make it to the end,
+I hope to see you soon,
+Kind regards.
+
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
