@@ -82,18 +82,10 @@ Kind regards.
 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
-	
-<!-- PROFILE VIEW 
-<p align="center">  
-  <strong>
-    <img src="https://komarev.com/ghpvc/?username=mattnix4&amp;color=0066ff"/>
-  </strong> 
-</p>
--->
 
 <!-- STREAK STATS -->
 <p align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mattnix4&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=oussamarouabah&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
     <br>
 </p>
 
