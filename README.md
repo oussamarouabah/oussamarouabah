@@ -66,7 +66,7 @@
 
 <p align=center>
   <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+love+Go+%E2%9D%A4%EF%B8%8F'>
-<p>
+</p>
 
 ## About me:
 
@@ -130,11 +130,10 @@ I hope to see you soon,
 Kind regards.
 </p>
 
+
 <p align=center>
-  <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+and+Good+Bye+%F0%9F%91%8B'>
-<p>
-
-
+  <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Thanks+and+Good+Bye'>
+</p>
 
 
 
