@@ -71,63 +71,40 @@
 ## About me:
 
 <p>
-Hey There!
+Hello and welcome to my profile!
 
-Thanks for stopping by my profile, I know you are curious to know who am I and how can I help you with your issues!
+I'm Oussama, a dedicated Software Engineer with a passion for problem-solving and technology-driven solutions. With 5 years of experience in the field, I've traversed various industries, from E-commerce to Platform Engineering, and currently, I'm making waves in the exciting realm of Blockchain.
 
-Well, let me introduce myself first,
-My name is Oussama, I am from Algeria I have been working as a Software Engineer for 5 years now, I worked in E-commerce and Platform Engineering, and now I am working in the Blockchain industry, fantastic isn't it?
+A Bit About Me:
+Always the eager learner, I thrive on the thrill of acquiring new knowledge daily. I find immense satisfaction in overcoming challenges and turning complex problems into elegant, efficient solutions.
 
-You can consider me a nerd, I like to learn new things every day, now let me tell you about my tech stack:
+My Tech Arsenal:
 
-Programming Languages:
+Languages: Golang, Python, Typescript/Javascript
+Databases: PostgreSQL, MongoDB, DynamoDB, Redis, Elasticsearch, RabbitMQ (storage-like)
+Tools: Kubernetes, Docker, Hashicorp Suite (Terraform, Consul, Vault), Prometheus, Grafana
+Cloud Platforms: AWS, GCP, DigitalOcean
 
-- Golang
-- Python
-- Typescript / Javascript.
+My Journey:
 
-Databases:
+Namla Edge Cloud: 
+As a Platform Engineer, I designed Kubernetes operators using Go, alongside architecting and maintaining monitoring services like Prometheus and Grafana, all while weaving in various Go services.
 
-- PostgreSQL
-- MongoDB
-- DynamoDB
-- Redis
-- Elasticsearch
-- RabbitMQ ( not a database but just fit in the storage things )
-- Kafka
+MTC Marketplace: 
+I collaborated with MTC to craft an innovative Marketplace platform in Algeria. My role involved deployment via Terraform and GCP, as well as spearheading the search section.
 
-Tools:
+MatchX:
+Currently, I'm a Backend Engineer at MatchX, a trailblazing web3 company. Here, I'm entrusted with crafting Go backend services and orchestrating the migration to Kubernetes.
 
-- Kubernetes
-- Docker
-- Hashicorp ( Terraform, Consul, Vault )
-- Prometheus
-- Grafana
+Let's Connect:
+If you're seeking a dedicated professional who loves a challenge and is ready to bring your projects to new heights, feel free to send me a message. Let's have a chat about how I can contribute to your team's success.
 
-Cloud Platforms:
+I'm excited to collaborate with you and drive innovation together!
 
-- AWS
-- GCP
-- DigitalOcean
+Thank you for taking the time to explore my profile. I look forward to connecting with you soon.
 
-
-My experience:
-
-- I worked as a System Engineer with Namla Edge Cloud, I was responsible for building Kubernetes operators using Go, and also responsible for architecting and maintaining our monitoring services ( Prometheus, Grafana, ... ), with several Go services here and there.
-
-- I worked with MTC to build a new MarketPlace platform in Algeria, I was responsible for deployment using Terraform and GCP, and also the search section ( services related ).
-
-- I am working now as Backend Engineer with MatchX, we are a web3 company, and I am for the moment responsible for several Go backend services, and the migration to Kubernetes.
-
-
-Finally,
-Please feel free to send me a message, let's chat and see how can I help you.
-
-I am excited to work with you!
-
-Thanks for your time, you definitely make it to the end,
-I hope to see you soon,
-Kind regards.
+Warm regards,
+Oussama
 </p>
 
 
