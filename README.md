@@ -62,12 +62,6 @@
   Platform Engineer | Backend Engineer | Software Engineer
 </h4>
 
-
-
-<p align=center>
-  <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+love+Go+%E2%9D%A4%EF%B8%8F'>
-</p>
-
 ## About me:
 
 <p>
@@ -106,13 +100,3 @@ Thank you for taking the time to explore my profile. I look forward to connectin
 Warm regards,
 Oussama
 </p>
-
-
-<p align=center>
-  <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Thanks+and+Good+Bye'>
-</p>
-
-
-
-
-
