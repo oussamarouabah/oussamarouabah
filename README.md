@@ -1,59 +1,3 @@
-<h2>ℹ️ &nbsp;Github Info</h2>
-
-<!-- STREAK STATS -->
-<p align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=oussamarouabah&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
-    <br>
-</p>
-
-
-
-<!-- STATS -->
-<a href="https://github.com/oussamarouabah/github-stats">
-  <p align='center'>
-    <img src="https://github.com/oussamarouabah/github-stats/blob/master/generated/overview.svg"/>
-    <img src="https://github.com/oussamarouabah/github-stats/blob/master/generated/languages.svg"/>
-  </p>
-</a>
-
-  <!-- SKILLS -->
-  
-<p align="center">
-  <img alt='Go' src='https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white'/>
-  <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
-  <img alt='TS' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
-  <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
-  <img alt='GIT' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
- </p>
-  
-  <!-- SOCIAL NETWORK -->
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/oussamarouabah/">
-    <img height='35' width='35' src="https://github.com/oussamarouabah/oussamarouabah/blob/main/img/in.png"/>
-  </a>
-</p>
-
-<!-- Linux Typing -->
-
-
-
-
-
-<!-- Visitor -->
-
-<p align="right">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=oussamarouabah&repo=oussamarouabah&countColor=%2308E8FF"/>
-</p>
-
-<!-- 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/mattnix4"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mattnix4&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
-</p>
-
--->
-
-<br>
 <h1 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
@@ -99,4 +43,17 @@ Thank you for taking the time to explore my profile. I look forward to connectin
 
 Warm regards,
 Oussama
+</p>
+
+<p align="center">
+  <img alt='Go' src='https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white'/>
+  <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
+  <img alt='TS' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
+  <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
+  <img alt='GIT' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
+ </p>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/oussamarouabah/">
+    <img height='35' width='35' src="https://github.com/oussamarouabah/oussamarouabah/blob/main/img/in.png"/>
+  </a>
 </p>
