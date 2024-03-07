@@ -5,5 +5,5 @@
 ## About me:
 
 <p>
-I'm Oussama, a dedicated Software Engineer passionate about problem-solving and technology-driven solutions. With 5 years of experience in the field.
+I'm Oussama, a Software Engineer passionate about problem-solving and technology-driven solutions with 4 years of experience in the field.
 </p>
